@@ -117,8 +117,8 @@
 
 // Scrollreveal for animation
 
-ScrollReveal().reveal('.right', { delay: 10, duration: 700, distance: '100px', easing: 'ease-in-out', reset: true, interval: 800,  origin: 'right', scale: 0.85 });
-ScrollReveal().reveal('.text', { delay: 10, duration: 700, distance: '100px', easing: 'ease-in', reset: true, interval: 800,  origin: 'left', scale: 0.85 });
-ScrollReveal().reveal('.bottom', { delay: 10, duration: 700, distance: '100px', easing: 'ease-in', reset: true, interval: 800,  origin: 'bottom', scale: 0.85 });
-ScrollReveal().reveal('.top', { delay: 10, duration: 700, distance: '100px', easing: 'ease-in', reset: true, interval: 800,  origin: 'top', scale: 0.85});
+ScrollReveal().reveal('.right', { delay: 10, duration: 700, easing: 'ease-in-out', reset: true, interval: 800,  origin: 'right', scale: 0.85 });
+ScrollReveal().reveal('.text', { delay: 10, duration: 700, easing: 'ease-in', reset: true, interval: 800,  origin: 'left', scale: 0.85 });
+ScrollReveal().reveal('.bottom', { delay: 10, duration: 700, easing: 'ease-in', reset: true, interval: 800,  origin: 'bottom', scale: 0.85 });
+ScrollReveal().reveal('.top', { delay: 10, duration: 700, easing: 'ease-in', reset: true, interval: 800,  origin: 'top', scale: 0.85});
 
